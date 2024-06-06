@@ -84,8 +84,8 @@ ALLOWED_DOMAIN=@groupeseb
 После ввода почты пользователя бот предоставит вам данные пользователя (имя и фамилия, никнейм, полное имя в тг) и вариант заблокировать/разблокировать или отменить ваше действие.
 
 ## Авторы проекта:
-[Стеблев Константин](https://github.com/KonstantinSKS)
-[Тен Алексей](https://github.com/aten88)
-[Бойко Максим](https://github.com/Boikomp)
-[Хлестов Андрей](https://github.com/AndreyKhlestov)
-[Фабиянский Илья](https://github.com/fabilya)
+[Стеблев Константин](https://github.com/KonstantinSKS)\
+[Тен Алексей](https://github.com/aten88)\
+[Бойко Максим](https://github.com/Boikomp)\
+[Хлестов Андрей](https://github.com/AndreyKhlestov)\
+[Фабиянский Илья](https://github.com/fabilya)\
