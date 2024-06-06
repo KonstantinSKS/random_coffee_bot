@@ -88,4 +88,4 @@ ALLOWED_DOMAIN=@groupeseb
 [Тен Алексей](https://github.com/aten88)\
 [Бойко Максим](https://github.com/Boikomp)\
 [Хлестов Андрей](https://github.com/AndreyKhlestov)\
-[Фабиянский Илья](https://github.com/fabilya)\
+[Фабиянский Илья](https://github.com/fabilya)
